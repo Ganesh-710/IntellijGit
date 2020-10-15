@@ -4,7 +4,8 @@ public class Git {
 
   public static void main(String[] args) {
 
-      System.out.println("Git is great from master");
+      String woohoo = "Intellij";
+      System.out.println("Git is great from master2");
 
   }
 }
